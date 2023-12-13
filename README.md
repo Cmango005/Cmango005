@@ -16,8 +16,8 @@
 <a href="https://www.hackerrank.com/cmango005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cmango005" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,node.js,mongodb,express.js,firebase)](https://skillicons.dev) 
+### Skills that I have used:
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,mongodb,firebase,express)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmango005&show_icons=true&locale=en&layout=compact" alt="cmango005" /></p>
 
