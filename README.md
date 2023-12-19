@@ -19,8 +19,8 @@
 ### Skills that I have used:
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,mongodb,firebase,express)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmango005&show_icons=true&locale=en&layout=compact" alt="cmango005" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cmango005&show_icons=true&locale=en" alt="cmango005" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cmango005&theme=buefy)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cmango005&" alt="cmango005" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cmango005&theme=blue-navy)](https://git.io/streak-stats) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cmango005&theme=buefy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cmango005&theme=buefy)
